@@ -1,0 +1,1 @@
+alert('Prince is on course')
